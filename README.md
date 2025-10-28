@@ -48,4 +48,5 @@ O código CSS foi construído com base em um **Sistema de Design** rigoroso, gar
 ## ACESSE O NOSSO WEBSITE
 
 **ONG-NOVO-CAMINHO 1**: [CLIQUE AQUI](https://ongnovocaminho.neocities.org/)
-**ONG-NOVO-CAMINHO 2**: [CLIQUE AQUI](
+
+**ONG-NOVO-CAMINHO 2**: [CLIQUE AQUI](https://luanebonassoli.github.io/ONG-NOVO-CAMINHO-2/)
